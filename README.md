@@ -1,6 +1,6 @@
 # restaurantanalysis
 
-it includes
+This includes
 *pandas
 *speech recognization
 *GTTS(google text to speech)
